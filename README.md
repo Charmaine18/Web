@@ -75,7 +75,7 @@ Account (Abstract Base Class)
 - [ ] Administrative dashboard
 
 **Charmaine Mkhabela**
-- GitHub: [Charmaine](github.com/Charmaine18)
+- GitHub: [Charmaine18](github.com/Charmaine18)
 - Email:mkhabelacharmaine4@gmail.com
 
 ## 🙏 Acknowledgments
